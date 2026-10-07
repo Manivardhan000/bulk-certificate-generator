@@ -324,3 +324,5 @@ Download a successful certificate using the returned certificate ID:
 ```bash
 curl -o certificate.pdf http://localhost:8000/api/certificates/<CERTIFICATE_ID>
 ```
+#   b u l k - c e r t i f i c a t e - g e n e r a t o r  
+ 
