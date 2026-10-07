@@ -1,12 +1,5 @@
+﻿.env
 __pycache__/
-*.py[cod]
 .pytest_cache/
-.venv/
-venv/
-.env
-.coverage
-htmlcov/
-*.log
-generated/*.pdf
-.idea/
-.vscode/
+*.pyc
+generated/
