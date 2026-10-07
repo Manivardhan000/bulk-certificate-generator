@@ -69,8 +69,8 @@ Example request:
       "certificate_title": "Certificate of Completion",
       "recipients": [
         {
-          "name": "Abhinav Sai",
-          "email": "abhinav@example.com"
+          "name": "Mani",
+          "email": "Mani@example.com"
         },
         {
           "name": "Rahul Kumar",
@@ -308,8 +308,8 @@ Example request:
       "certificate_title": "Certificate of Completion",
       "recipients": [
         {
-          "name": "Abhinav Sai",
-          "email": "abhinav@example.com"
+          "name": "Mani",
+          "email": "Mani@example.com"
         },
         {
           "name": "Rahul Kumar",
